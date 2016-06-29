@@ -1,6 +1,7 @@
 # netapp_e
 
 The NetApp E-Series module manages E-Series storage arrays using Puppet Network Device.
+Version __1.0.1__ is currently available at [PuppetForge](https://forge.puppet.com/netapp/netapp_e)
 
 ## Requirements ##
 
@@ -1033,8 +1034,12 @@ Before creating pull request, run the tests and ensure that all Rspec pass.
 You can also check acceptance test which can be found in [acceptancetests directory](acceptancetests/README.md)
 
 
-## Authors & Contributors ##
-
-* Janet Blagg <Janet.Blagg@netapp.com>
-* Matt Tangvald <Matt.Tangvald@netapp.com>
-* Frank Poole <Frank.Poole@netapp.com>
+## Authors & Contributors
+Support and maintenance is provided by NetApp.
+* Kevin Hulquest <Kevin.Hulquest@netapp.com | *Maintainer*
+* Janet Blagg <Janet.Blagg@netapp.com> | *Support*
+* Matt Tangvald <Matt.Tangvald@netapp.com> | *Support*
+* Frank Poole <Frank.Poole@netapp.com> | *Support*
+* Michał Skalski <mskalski@mirantis.com> | *Author*
+* Andrzej Skupień <kendriu@gmail.com> | *Author*
+* Denys Kravchenko <dkravchenko@mirantis.com> | *Author*
