@@ -1036,7 +1036,7 @@ You can also check acceptance test which can be found in [acceptancetests direct
 
 ## Authors & Contributors
 Support and maintenance is provided by NetApp.
-* Kevin Hulquest <Kevin.Hulquest@netapp.com | *Maintainer*
+* Kevin Hulquest <Kevin.Hulquest@netapp.com> | *Maintainer*
 * Janet Blagg <Janet.Blagg@netapp.com> | *Support*
 * Matt Tangvald <Matt.Tangvald@netapp.com> | *Support*
 * Frank Poole <Frank.Poole@netapp.com> | *Support*
